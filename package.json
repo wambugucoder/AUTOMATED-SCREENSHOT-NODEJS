@@ -9,7 +9,7 @@
   "author": "jos",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.2",
     "puppeteer": "^5.5.0"
   }
 }
